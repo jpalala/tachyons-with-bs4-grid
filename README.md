@@ -1,4 +1,4 @@
-# Tachyons with VS4 grid
+# Tachyons with Bootstrap v4 grid
 
 Compiled tachyons without widths but replaced with bootstrap's grid css
 
